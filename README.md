@@ -1,5 +1,5 @@
 # Chatgpt_website_creation
-Time Tales - Historical Fiction and Storytelling Platform
+# Time Tales - Historical Fiction and Storytelling Platform
 Welcome to Time Tales, a platform dedicated to historical fiction enthusiasts and storytellers. Time Tales offers a collection of serialized stories, interactive storytelling experiences, historical research articles, and discussions on various historical topics. Dive into the past and explore intriguing narratives, embark on time travel adventures, unravel historical mysteries, and gain insights through author interviews.
 
 Features
